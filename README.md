@@ -6,7 +6,7 @@ This project explores the intricacies of styling HTML form widgets and understan
 
 ---
 
-## 📚 Project Background
+## Project Background
 
 This challenge comes from the MDN Web Docs article:
 
